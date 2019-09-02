@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+p:hover {
+    color: green;
+}
+
+.myname {
+    color: red;
+}
+
+#thanh {
+    text-decoration: underline;
+}
+
+#huy {
+    font-style: italic;
+}
+
+.abc {
+    font-family: Arial, Helvetica, sans-serif
+}
